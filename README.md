@@ -257,10 +257,27 @@ done
 ## Citation
 If our dataset helps your work, please cite this paper:
 ```
-@article{huang2025benchmax,
-  title={BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models},
-  author={Huang, Xu and Zhu, Wenhao and Hu, Hanxu and He, Conghui and Li, Lei and Huang, Shujian and Yuan, Fei},
-  journal={arXiv preprint arXiv:2502.07346},
-  year={2025}
+@inproceedings{huang-etal-2025-benchmax,
+    title = "{B}ench{MAX}: A Comprehensive Multilingual Evaluation Suite for Large Language Models",
+    author = "Huang, Xu  and
+      Zhu, Wenhao  and
+      Hu, Hanxu  and
+      He, Conghui  and
+      Li, Lei  and
+      Huang, Shujian  and
+      Yuan, Fei",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.909/",
+    doi = "10.18653/v1/2025.findings-emnlp.909",
+    pages = "16751--16774",
+    ISBN = "979-8-89176-335-7",
 }
 ```
